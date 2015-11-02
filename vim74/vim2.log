@@ -1,0 +1,229 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+001.000  001.000: locale set
+001.000  000.000: clipboard setup
+001.000  000.000: window checked
+001.000  000.000: inits 1
+007.000  006.000: parsing arguments
+007.000  000.000: expanding arguments
+008.000  001.000: shell init
+008.000  000.000: Termcap init
+008.000  000.000: inits 2
+008.000  000.000: init highlight
+933.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\syntax\syncolor.vim
+1116.000  186.000  186.000: sourcing C:\Program Files (x86)\Vim\vim74\syntax\synload.vim
+1494.000  377.000  377.000: sourcing C:\Program Files (x86)\Vim\vim74\filetype.vim
+1676.000  932.000  369.000: sourcing C:\Program Files (x86)\Vim\vim74\syntax\syntax.vim
+1679.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\filetype.vim
+1682.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\ftplugin.vim
+1685.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\indent.vim
+1686.000  942.000  010.000: sourcing C:\Program Files (x86)\Vim\vim74/vimrc_example.vim
+1871.000  001.000  001.000: sourcing C:\Program Files (x86)\Vim\vim74\autoload\paste.vim
+1871.000  184.000  183.000: sourcing C:\Program Files (x86)\Vim\vim74/mswin.vim
+1871.000  1128.000  002.000: sourcing $VIM\_vimrc
+1871.000  735.000: sourcing vimrc file(s)
+2237.000  366.000: loading plugins
+2237.000  000.000: inits 3
+2603.000  366.000: reading viminfo
+2603.000  000.000: setting raw mode
+2606.000  003.000: start termcap
+2606.000  000.000: clearing screen
+2606.000  000.000: opening buffers
+2606.000  000.000: BufEnter autocommands
+2606.000  000.000: editing files in windows
+2606.000  000.000: VimEnter autocommands
+2606.000  000.000: before starting main loop
+2611.000  005.000: first screen update
+2611.000  000.000: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+000.000  000.000: locale set
+000.000  000.000: clipboard setup
+000.000  000.000: window checked
+002.000  002.000: inits 1
+008.000  006.000: parsing arguments
+008.000  000.000: expanding arguments
+009.000  001.000: shell init
+009.000  000.000: Termcap init
+009.000  000.000: inits 2
+009.000  000.000: init highlight
+562.000  553.000: sourcing vimrc file(s)
+928.000  366.000: loading plugins
+928.000  000.000: inits 3
+928.000  000.000: setting raw mode
+932.000  004.000: start termcap
+932.000  000.000: clearing screen
+932.000  000.000: opening buffers
+932.000  000.000: BufEnter autocommands
+932.000  000.000: editing files in windows
+932.000  000.000: VimEnter autocommands
+932.000  000.000: before starting main loop
+934.000  002.000: first screen update
+934.000  000.000: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+000.000  000.000: locale set
+000.000  000.000: clipboard setup
+000.000  000.000: window checked
+002.000  002.000: inits 1
+008.000  006.000: parsing arguments
+008.000  000.000: expanding arguments
+009.000  001.000: shell init
+009.000  000.000: Termcap init
+009.000  000.000: inits 2
+009.000  000.000: init highlight
+1052.000  1043.000: sourcing vimrc file(s)
+1417.000  365.000: loading plugins
+1417.000  000.000: inits 3
+1417.000  000.000: setting raw mode
+1421.000  004.000: start termcap
+1421.000  000.000: clearing screen
+1421.000  000.000: opening buffers
+1421.000  000.000: BufEnter autocommands
+1421.000  000.000: editing files in windows
+1421.000  000.000: VimEnter autocommands
+1421.000  000.000: before starting main loop
+1423.000  002.000: first screen update
+1423.000  000.000: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+002.000  002.000: locale set
+002.000  000.000: clipboard setup
+002.000  000.000: window checked
+002.000  000.000: inits 1
+011.000  009.000: parsing arguments
+011.000  000.000: expanding arguments
+012.000  001.000: shell init
+013.000  001.000: Termcap init
+013.000  000.000: inits 2
+013.000  000.000: init highlight
+749.000  736.000: sourcing vimrc file(s)
+1413.000  664.000: loading plugins
+1413.000  000.000: inits 3
+1413.000  000.000: setting raw mode
+1416.000  003.000: start termcap
+1418.000  002.000: clearing screen
+1418.000  000.000: opening buffers
+1418.000  000.000: BufEnter autocommands
+1418.000  000.000: editing files in windows
+1418.000  000.000: VimEnter autocommands
+1418.000  000.000: before starting main loop
+1420.000  002.000: first screen update
+1420.000  000.000: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+000.000  000.000: locale set
+000.000  000.000: clipboard setup
+000.000  000.000: window checked
+002.000  002.000: inits 1
+007.000  005.000: parsing arguments
+008.000  001.000: expanding arguments
+009.000  001.000: shell init
+009.000  000.000: Termcap init
+009.000  000.000: inits 2
+009.000  000.000: init highlight
+2548.000  2539.000: sourcing vimrc file(s)
+2913.000  365.000: loading plugins
+2913.000  000.000: inits 3
+2913.000  000.000: setting raw mode
+2916.000  003.000: start termcap
+2916.000  000.000: clearing screen
+2916.000  000.000: opening buffers
+2916.000  000.000: BufEnter autocommands
+2916.000  000.000: editing files in windows
+2916.000  000.000: VimEnter autocommands
+2916.000  000.000: before starting main loop
+2918.000  002.000: first screen update
+2918.000  000.000: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+001.000  001.000: locale set
+001.000  000.000: clipboard setup
+001.000  000.000: window checked
+001.000  000.000: inits 1
+007.000  006.000: parsing arguments
+007.000  000.000: expanding arguments
+008.000  001.000: shell init
+009.000  001.000: Termcap init
+009.000  000.000: inits 2
+009.000  000.000: init highlight
+743.000  734.000: sourcing vimrc file(s)
+1108.000  365.000: loading plugins
+1108.000  000.000: inits 3
+1108.000  000.000: setting raw mode
+1111.000  003.000: start termcap
+1112.000  001.000: clearing screen
+1112.000  000.000: opening buffers
+1112.000  000.000: BufEnter autocommands
+1112.000  000.000: editing files in windows
+1112.000  000.000: VimEnter autocommands
+1112.000  000.000: before starting main loop
+1115.000  003.000: first screen update
+1115.000  000.000: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+000.000  000.000: locale set
+000.000  000.000: clipboard setup
+000.000  000.000: window checked
+002.000  002.000: inits 1
+008.000  006.000: parsing arguments
+008.000  000.000: expanding arguments
+010.000  002.000: shell init
+010.000  000.000: Termcap init
+010.000  000.000: inits 2
+010.000  000.000: init highlight
+200.000  190.000: sourcing vimrc file(s)
+565.000  365.000: loading plugins
+565.000  000.000: inits 3
+565.000  000.000: setting raw mode
+568.000  003.000: start termcap
+568.000  000.000: clearing screen
+568.000  000.000: opening buffers
+568.000  000.000: BufEnter autocommands
+568.000  000.000: editing files in windows
+568.000  000.000: VimEnter autocommands
+568.000  000.000: before starting main loop
+572.000  004.000: first screen update
+572.000  000.000: --- VIM STARTED ---

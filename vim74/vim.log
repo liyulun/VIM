@@ -1,0 +1,53 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+001.000  001.000: locale set
+001.000  000.000: clipboard setup
+001.000  000.000: window checked
+001.000  000.000: inits 1
+008.000  007.000: parsing arguments
+008.000  000.000: expanding arguments
+009.000  001.000: shell init
+010.000  001.000: Termcap init
+010.000  000.000: inits 2
+010.000  000.000: init highlight
+1241.000  001.000  001.000: sourcing C:\Program Files (x86)\Vim\vim74\syntax\syncolor.vim
+1422.000  184.000  183.000: sourcing C:\Program Files (x86)\Vim\vim74\syntax\synload.vim
+2111.000  687.000  687.000: sourcing C:\Program Files (x86)\Vim\vim74\filetype.vim
+3193.000  2140.000  1269.000: sourcing C:\Program Files (x86)\Vim\vim74\syntax\syntax.vim
+3194.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\filetype.vim
+3196.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\ftplugin.vim
+3197.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\indent.vim
+3197.000  2145.000  005.000: sourcing C:\Program Files (x86)\Vim\vim74/vimrc_example.vim
+3381.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\autoload\paste.vim
+3381.000  183.000  183.000: sourcing C:\Program Files (x86)\Vim\vim74/mswin.vim
+3381.000  2330.000  002.000: sourcing $VIM\_vimrc
+3381.000  1041.000: sourcing vimrc file(s)
+3565.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\getscriptPlugin.vim
+3566.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\gzip.vim
+3567.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\matchparen.vim
+3568.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\netrwPlugin.vim
+3569.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\rrhelper.vim
+3570.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\spellfile.vim
+3571.000  001.000  001.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\tarPlugin.vim
+3571.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\tohtml.vim
+3572.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\vimballPlugin.vim
+3573.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim74\plugin\zipPlugin.vim
+3755.000  373.000: loading plugins
+3755.000  000.000: inits 3
+4536.000  781.000: reading viminfo
+4536.000  000.000: setting raw mode
+4541.000  005.000: start termcap
+4541.000  000.000: clearing screen
+4541.000  000.000: opening buffers
+4541.000  000.000: BufEnter autocommands
+4541.000  000.000: editing files in windows
+4541.000  000.000: VimEnter autocommands
+4541.000  000.000: before starting main loop
+4543.000  002.000: first screen update
+4543.000  000.000: --- VIM STARTED ---
